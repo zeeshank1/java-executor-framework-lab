@@ -26,7 +26,7 @@ The Java Executor framework provides a high-level replacement for traditional th
 3. **Compile and Run:**
    javac -d out src/**/*.java
 4. **Run the examples:**
-   java -cp out com.example.Main
+   java -cp out com.example.Main file
 
 
 
